@@ -4,4 +4,6 @@
 
 “The man who moves a mountain begins by carrying away small stones.”
 
-sklvknsdlkjfsdsjflksjslkfj
+
+"a new quote"...
+
